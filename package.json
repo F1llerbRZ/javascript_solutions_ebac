@@ -1,8 +1,8 @@
 {
-  "name": "ex_20",
+  "name": "ex.20",
   "version": "1.0.0",
   "description": "",
-  "main": "Ex_20",
+  "main": "exer1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
